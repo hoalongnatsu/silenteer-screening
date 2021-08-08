@@ -1,0 +1,29 @@
+{
+  "current": "blue",
+  "data": {
+    "blue": {
+      "name": "blue",
+      "enable": {
+        "blue": true,
+        "green": true,
+        "yellow": true
+      }
+    },
+    "green": {
+      "name": "green",
+      "enable": {
+        "blue": true,
+        "green": true,
+        "yellow": false
+      }
+    },
+    "yellow": {
+      "name": "yellow",
+      "enable": {
+        "blue": true,
+        "green": false,
+        "yellow": true
+      }
+    }
+  }
+}
